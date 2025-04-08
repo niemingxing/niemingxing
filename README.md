@@ -8,25 +8,7 @@
 
 - **微信**: histargo
 
-## 技能
-
-- **编程语言**:
-  - PHP
-  - Python
-  - Javascript
-
-- **框架和库**:
-  - Django
-  - Vue
-  - Jquery
-  - Laravel
-
-- **工具**:
-  - Git
-  - Docker
-  - VS Code
-
-## 项目
+## 个人站点
 
 ### Custom Wordle Online
 - **网址**: [https://customwordle.online/](https://customwordle.online/)
