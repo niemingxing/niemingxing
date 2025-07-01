@@ -10,17 +10,13 @@
 
 ## 个人站点
 
+### Flux AI Hub
+- **网址**: [https://fluxaihub.online](https://fluxaihub.online)
+- **描述**: 使用 Flux AI 创建令人惊叹的 AI 生成图像。通过我们先进的图像生成技术将您的想法转化为精美的视觉效果。
+
 ### Custom Wordle Online
-- **网址**: [https://customwordle.online/](https://customwordle.online/)
+- **网址**: [https://customwordle.online/](https://customwordle.online)
 - **描述**: Custom Wordle Online 是一个允许用户创建和分享自定义 Wordle 游戏的平台。你可以设置自己的单词列表，并邀请朋友一起挑战。
-
-### Face to Many Play
-- **网址**: [https://facetomanyplay.com](https://facetomanyplay.com)
-- **描述**: Face to Many Play 是一个免费的 AI 工具，可以让你通过几次点击变换你的脸部风格。现在就尝试一下吧！
-
-### Freaky Font Online
-- **网址**: [https://freakyfont.online/](https://freakyfont.online/)
-- **描述**: Freaky Font Online 提供多种奇特字体生成服务，用户可以输入文本并生成各种有趣的字体样式，适用于社交媒体、设计等多种用途。
 
 ### Ghibli Style Image Generator
 - **网址**: [https://ghiblistyleimagegenerator.art/](https://ghiblistyleimagegenerator.art/)
