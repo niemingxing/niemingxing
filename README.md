@@ -10,21 +10,13 @@
 
 ## 个人站点
 
-### Flux AI Hub
-- **网址**: [https://fluxaihub.online](https://fluxaihub.online)
-- **描述**: 使用 Flux AI 创建令人惊叹的 AI 生成图像。通过我们先进的图像生成技术将您的想法转化为精美的视觉效果。
-
-### Custom Wordle Online
-- **网址**: [https://customwordle.online/](https://customwordle.online)
-- **描述**: Custom Wordle Online 是一个允许用户创建和分享自定义 Wordle 游戏的平台。你可以设置自己的单词列表，并邀请朋友一起挑战。
+### Wawoo AI
+- **网址**: [https://wawooai.com](https://wawooai.com)
+- **描述**: 用 Wawoo AI 创建精美的 AI 图像、视频和音频。专业品质的多媒体内容，几秒钟即可生成。
 
 ### Ghibli Style Image Generator
 - **网址**: [https://ghiblistyleimagegenerator.art/](https://ghiblistyleimagegenerator.art/)
 - **描述**: Ghibli Style Image Generator 是一个基于人工智能的图像生成工具，可以将普通照片转换为吉卜力风格的艺术作品。
-
-### Hello Kitty Wallpaper AI
-- **网址**: [https://hellokittywallpaperai.com/](https://hellokittywallpaperai.com/)
-- **描述**: Hello Kitty Wallpaper AI 提供由人工智能生成的 Hello Kitty 主题壁纸，用户可以选择不同的风格和主题来定制自己的壁纸。
 
 ### Polytrack
 - **网址**: [https://polytrack.info](https://polytrack.info)
