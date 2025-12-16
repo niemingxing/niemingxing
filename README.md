@@ -18,8 +18,4 @@
 - **网址**: [https://ghiblistyleimagegenerator.art/](https://ghiblistyleimagegenerator.art/)
 - **描述**: Ghibli Style Image Generator 是一个基于人工智能的图像生成工具，可以将普通照片转换为吉卜力风格的艺术作品。
 
-### Polytrack
-- **网址**: [https://polytrack.info](https://polytrack.info)
-- **描述**: PolyTrack 是一个令人兴奋的驾驶游戏，包含循环、跳跃和高速动作。与时间赛跑，在你和 Poly Track 社区建造的赛道上竞争！
-
 感谢阅读我的个人简介！如果有任何问题或合作意向，请随时联系我。
